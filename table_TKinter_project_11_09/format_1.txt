@@ -1,0 +1,7 @@
+do the above like the below json format:
+{
+    "topic" (only the topic name, use nlp to make the topic shorter): {
+        "description": (short description for the above topic),
+        "keywords": (list all the steps or procedure for the topic, the listed steps or procedure should not be repeated when we expand it for further explanation)
+    }
+}

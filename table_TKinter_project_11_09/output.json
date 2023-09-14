@@ -1,0 +1,148 @@
+{
+  "Cancer": {
+    "description": "Cancer refers to the uncontrolled growth and spread of abnormal cells in the body. It is a complex disease that requires a multi-faceted approach for treatment. Here are some commonly used methods for curing cancer:",
+    "keywords": [
+      {
+        "Surgery": {
+          "description": "Surgery is a common method used for the treatment of cancer. It involves the removal of abnormal cells or tumors from the body.",
+          "keywords": [
+            "Removal of abnormal cells or tumors",
+            "Treatment method for cancer",
+            "Precision surgical techniques",
+            "Minimally invasive surgery",
+            "Open surgery",
+            "Surgical oncology",
+            "Curative surgery",
+            "Palliative surgery",
+            "Preventive surgery",
+            "Reconstructive surgery",
+            "Surgical biopsy",
+            "Surgical staging",
+            "Surgical resection",
+            "Surgical margins",
+            "Post-operative care",
+            "Surgical complications",
+            "Advancements in surgical techniques"
+          ]
+        }
+      },
+      {
+        "Chemotherapy": {
+          "description": "Chemotherapy is a treatment method for cancer that involves the use of drugs to kill or slow down the growth of cancer cells. It is one of the most common and widely used treatments for cancer.",
+          "keywords": [
+            "Treatment method for cancer",
+            "Use of drugs",
+            "Kills or slows down the growth of cancer cells",
+            "Commonly used",
+            "Widely used"
+          ]
+        }
+      },
+      {
+        "Radiation therapy": {
+          "description": "Radiation therapy is a common treatment method for cancer that involves the use of high-energy radiation to destroy or shrink cancer cells.",
+          "keywords": [
+            "High-energy radiation",
+            "Cancer treatment",
+            "Destroy or shrink cancer cells",
+            "External beam radiation",
+            "Internal radiation",
+            "Radiation oncologist",
+            "Linear accelerator",
+            "Radiotherapy machine",
+            "Radiation dose",
+            "Targeted radiation",
+            "Precise and controlled radiation",
+            "Side effects of radiation therapy",
+            "Radiation therapy planning",
+            "Simulation",
+            "Radiotherapy treatment sessions"
+          ]
+        }
+      },
+      {
+        "Immunotherapy": {
+          "description": "Immunotherapy is a form of cancer treatment that uses the body's own immune system to fight cancer cells. It involves the use of substances or treatments that stimulate or enhance the immune system's response to target and destroy cancer cells.",
+          "keywords": [
+            "Cancer treatment",
+            "Body's immune system",
+            "Fight cancer cells",
+            "Stimulate immune system",
+            "Enhance immune response",
+            "Target cancer cells",
+            "Destroy cancer cells"
+          ]
+        }
+      },
+      {
+        "Targeted therapy": {
+          "description": "Targeted therapy is a specialized approach to treating cancer that focuses on blocking specific molecules or pathways involved in the growth and survival of cancer cells. Unlike traditional chemotherapy, which affects both normal and cancerous cells, targeted therapy aims to selectively attack cancer cells while minimizing harm to healthy cells.",
+          "keywords": [
+            "Specialized approach to treating cancer",
+            "Blocking specific molecules or pathways",
+            "Selective attack on cancer cells",
+            "Minimizing harm to healthy cells"
+          ]
+        }
+      },
+      {
+        "Precision medicine": {
+          "description": "Precision medicine refers to an approach that takes into account individual variability in genes, environment, and lifestyle for the prevention, diagnosis, and treatment of diseases like cancer.",
+          "keywords": [
+            "Individual variability",
+            "Genes",
+            "Environment",
+            "Lifestyle",
+            "Prevention",
+            "Diagnosis",
+            "Treatment",
+            "Diseases",
+            "Cancer"
+          ]
+        }
+      },
+      {
+        "Alternative medicine": {
+          "description": "Alternative medicine refers to practices and treatments that are outside the realm of conventional medicine. It often involves approaches that are not widely accepted or supported by scientific evidence.",
+          "keywords": [
+            "Non-conventional medical practices",
+            "Complementary therapies",
+            "Holistic healing methods",
+            "Natural remedies",
+            "Mind-body interventions",
+            "Herbal medicine",
+            "Traditional Chinese medicine",
+            "Ayurvedic medicine",
+            "Homeopathy",
+            "Acupuncture",
+            "Chiropractic care",
+            "Naturopathy",
+            "Energy healing",
+            "Supplement and dietary interventions",
+            "Use of essential oils",
+            "Physical manipulation techniques",
+            "Stress reduction techniques",
+            "Alternative cancer treatments"
+          ]
+        }
+      },
+      {
+        "Supportive care": {
+          "description": "Supportive care refers to the range of services and treatments provided to cancer patients to help manage symptoms, minimize side effects of treatment, improve quality of life, and provide emotional and psychological support.",
+          "keywords": [
+            "Management of symptoms",
+            "Minimizing side effects of treatment",
+            "Improving quality of life",
+            "Emotional support",
+            "Psychological support",
+            "Palliative care",
+            "Symptom control",
+            "Pain management",
+            "Psychosocial support",
+            "Nutritional support"
+          ]
+        }
+      }
+    ]
+  }
+}

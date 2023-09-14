@@ -1,0 +1,7 @@
+do the above like the below json format:
+{
+    "keyword name"(only the relevant keyword name or suitable topic for the query and use NLP to make it): {
+        "description": (short description for the above keyword_name),
+        "keywords": (for the above keyword_name write the points which should be clearly Elaborated, described, explained, analysed, and Summarized: the listed points should not be repeated when we expand it for further)
+    }
+}
